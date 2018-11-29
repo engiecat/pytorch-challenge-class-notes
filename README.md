@@ -3,6 +3,7 @@
 <img src="https://github.com/engiecat/pytorch-challenge-class-notes/blob/master/assets/readme_logo.png" width="200">
 
  Class Notes for *PyTorch Scholarship Challenge from Facebook 2018/2019 Phase 1 - Deep Learning with PyTorch* 
+ 
 **WORK IN PROGRESS!!**
  
 # Introduction
