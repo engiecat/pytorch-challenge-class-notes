@@ -1,4 +1,4 @@
-# Class Notes on PyTorch Facebook Challenge Phase 1 on Udacity.
+# Class Notes on PyTorch Facebook Challenge on Udacity
 
 <img src="https://github.com/engiecat/pytorch-challenge-class-notes/blob/master/assets/readme_logo.png" width="200">
 
