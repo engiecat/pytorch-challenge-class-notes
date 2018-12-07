@@ -22,7 +22,7 @@ This is **ONLY FOR YOUR REFERENCE PURPOSE**. Take time to watch the lectures ava
   - English : TODO
 - Lecture 4 : Introduction to PyTorch
   - Korean : TODO
-  - English : TODO
+  - English : TODO [(Rough Note by engiecat)](lesson4/Ch4_RoughNote_English.pdf)
 - Lecture 5 : Convolutional Neural Networks
   - Korean : TODO
   - English : TODO
