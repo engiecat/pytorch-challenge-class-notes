@@ -27,7 +27,7 @@ This is **ONLY FOR YOUR REFERENCE PURPOSE**. Take time to watch the lectures ava
   - Korean : TODO
   - English : TODO
 - Lecture 6 : Style Transfer
-  - Korean : TODO
+  - Korean : [Class Note](lesson6/Lesson6_Summary_ko.pdf)
   - English : TODO
 - Lecture 7 : Recurrent Neural Networks
   - Korean : TODO
